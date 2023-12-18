@@ -1,13 +1,15 @@
-# Project Title [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# Note Taker Express.js [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-Description
+The Note Taker is a simple yet powerful web application built using Express.js. This application allows users to create, save, and retrieve notes, providing an organized and efficient way to manage information.
 
 ## Deployed Application URL / Walkthrough Video
-[alt-text](Link)
+[Note Taker Express.js](Link)
 
 ## Screenshot
-(Screenshot path)
+![](./assets/images/screenshot1.png)
+
+![](./assets/images/screenshot2.png)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -19,10 +21,17 @@ Description
 - [Questions](#questions)
 
 ## Installation
-Installation
+- Clone repository.
+- Run npm install to install project dependencies.
+- Run npm install express --save-dev to install Express.js packages as a development dependency.
+- Run npm install --save-dev nodemon to automatically refresh the server upon changes.
+- Run npm install uuid@1 to install the uuid package and generate unique identifiers.
 
 ## Usage
-Usage
+- Add note
+- Save note
+- Retrieve note
+- Remove note
 
 ## Test
 Please follow installation process followed by usage.
@@ -32,7 +41,7 @@ Please follow installation process followed by usage.
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 ## Credits
-Credits
+None.
 
 ## License
 
