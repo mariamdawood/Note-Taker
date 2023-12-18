@@ -4,7 +4,7 @@
 The Note Taker is a simple yet powerful web application built using Express.js. This application allows users to create, save, and retrieve notes, providing an organized and efficient way to manage information.
 
 ## Deployed Application URL / Walkthrough Video
-[Note Taker Express.js](Link)
+[Note Taker Express.js](https://note-taker-expressjs-1-f32287293c4d.herokuapp.com/)
 
 ## Screenshot
 ![](./assets/images/screenshot1.png)
